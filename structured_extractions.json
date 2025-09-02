@@ -98,48 +98,50 @@
     "extraction_status": "success",
     "extraction_error": null,
     "structured_data": {
-      "primary_name": "CRISPR-Cas9 genome editing technology",
+      "primary_name": "CRISPR-Cas9 gene editing technology",
       "discoverers": [
         "Jennifer Doudna",
         "Emmanuelle Charpentier",
         "Francisco Mojica",
         "Yoshizumi Ishino",
         "Rodolphe Barrangou",
-        "Ruud Jansen"
+        "Feng Zhang",
+        "George Church"
       ],
       "discovery_years": [
         "2012"
       ],
       "discovery_timeline": [
-        "1987: First description of CRISPR by Yoshizumi Ishino",
-        "1993: Research on Mycobacterium tuberculosis",
-        "2000: Mojica identifies interrupted repeats in microbes",
-        "2001: Proposal of the acronym CRISPR",
-        "2005: Discovery of phage DNA-derived spacers",
-        "2007: First evidence of CRISPR as an adaptive immune system",
-        "2012: Doudna and Charpentier simplify CRISPR-Cas9 system"
+        "1987: First description of CRISPR by Yoshizumi Ishino.",
+        "1993: Research on Mycobacterium tuberculosis and the concept of spoligotyping.",
+        "2000: Francisco Mojica identifies interrupted repeats in microbes.",
+        "2001: Proposal of the acronym CRISPR by Mojica and Ruud Jansen.",
+        "2005: Discovery of phage resistance in Streptococcus thermophilus by Rodolphe Barrangou.",
+        "2007: First experimental evidence of CRISPR as an adaptive immune system.",
+        "2012: Doudna and Charpentier simplify the CRISPR-Cas9 system, leading to its widespread use."
       ],
-      "mechanism": "CRISPR-Cas9 uses RNA sequences derived from CRISPR to guide the Cas9 enzyme to specific DNA sequences, allowing for targeted cutting and editing of the DNA.",
+      "mechanism": "CRISPR-Cas9 uses a guide RNA to direct the Cas9 nuclease to specific DNA sequences, allowing for precise cuts in the DNA, which can then be modified by the cell's natural repair mechanisms.",
       "key_features": [
-        "Targeted gene editing",
-        "High precision",
-        "Versatile applications",
-        "Ability to edit multiple genes simultaneously"
+        "Precision in gene editing",
+        "Ability to target specific DNA sequences",
+        "Versatile applications in various fields",
+        "Potential for treating genetic disorders"
       ],
       "applications": [
-        "Basic biological research",
-        "Development of biotechnological products",
-        "Gene therapy",
-        "Agricultural biotechnology"
+        "Genetic research",
+        "Medicine (treatment of genetic disorders)",
+        "Agriculture (crop engineering)",
+        "Biotechnology"
       ],
-      "significance": "CRISPR-Cas9 has revolutionized genetic engineering, providing a powerful tool for gene editing that has broad implications in medicine, agriculture, and biological research.",
+      "significance": "CRISPR-Cas9 has revolutionized genetic engineering, providing a powerful tool for precise modifications in DNA, which has implications for medicine, agriculture, and biological research.",
       "institutions": [
         "Osaka University",
         "University of Alicante",
-        "Danish food company Danisco"
+        "MIT",
+        "Broad Institute"
       ],
       "awards": [
-        "Nobel Prize in Chemistry 2020"
+        "Nobel Prize in Chemistry (2020)"
       ],
       "extracted_at": "2023-10-01"
     }
@@ -243,7 +245,7 @@
     "extraction_status": "success",
     "extraction_error": null,
     "structured_data": {
-      "primary_name": "mRNA Vaccine",
+      "primary_name": "mRNA Vaccine Technology",
       "discoverers": [
         "Katalin Karikó",
         "Drew Weissman"
@@ -252,40 +254,37 @@
         "2020"
       ],
       "discovery_timeline": [
-        "1989: First successful transfection of designed mRNA into a cell published.",
+        "1989: First successful transfection of designed mRNA published.",
         "1990: Naked mRNA injected into mice.",
         "1993: Liposome-encapsulated mRNA shown to stimulate T cells in mice.",
         "1994: Self-amplifying mRNA developed.",
-        "1995: mRNA encoding a tumor antigen shown to elicit immune response in mice.",
-        "2001: First human clinical trial of therapeutic cancer mRNA vaccine.",
-        "2005: Modified nucleosides reported for mRNA transport.",
-        "2008: Clinical trial results of mRNA vaccine against cancer.",
-        "2008: BioNTech founded.",
-        "2010: Moderna founded.",
-        "2013: First human clinical trials of mRNA vaccine against rabies.",
-        "2020: Pfizer-BioNTech and Moderna obtain authorization for COVID-19 vaccines."
+        "2001: First human clinical trial of therapeutic cancer mRNA vaccine starts.",
+        "2004: Modified nucleosides reported for mRNA transport.",
+        "2008: Clinical trial results of mRNA vaccine against cancer cells reported.",
+        "2013: First human clinical trials of mRNA vaccine against rabies begin.",
+        "2020: COVID-19 pandemic leads to rapid development and approval of mRNA vaccines."
       ],
-      "mechanism": "mRNA vaccines use a copy of messenger RNA to instruct cells to produce a foreign protein that triggers an immune response against pathogens or cancer cells.",
+      "mechanism": "mRNA vaccines use a copy of messenger RNA to instruct cells to produce a protein that triggers an immune response against a pathogen or cancer cells.",
       "key_features": [
         "Ease of design",
         "Speed of production",
-        "Lower cost compared to traditional vaccines",
+        "Lower cost of production",
         "Induction of both cellular and humoral immunity",
-        "No interaction with genomic DNA"
+        "Non-infectious"
       ],
       "applications": [
         "COVID-19 vaccination",
         "Cancer immunotherapy",
         "Infectious disease prevention"
       ],
-      "significance": "mRNA vaccines represent a novel approach to vaccination, enabling rapid development and deployment against emerging infectious diseases, exemplified by their use in the COVID-19 pandemic.",
+      "significance": "mRNA vaccines represent a novel approach to vaccination, allowing for rapid development and production in response to emerging infectious diseases, significantly impacting public health during the COVID-19 pandemic.",
       "institutions": [
         "BioNTech",
         "Moderna",
         "DARPA"
       ],
       "awards": [
-        "2023 Nobel Prize in Physiology or Medicine awarded to Katalin Karikó and Drew Weissman"
+        "Nobel Prize in Physiology or Medicine (2023)"
       ],
       "extracted_at": "2023-10-01"
     }
@@ -423,15 +422,15 @@
         "1893: Proposal by Oliver Heaviside",
         "1905: Proposal by Henri Poincaré",
         "1916: Albert Einstein's demonstration of gravitational waves",
-        "1974: Indirect evidence from Hulse–Taylor binary pulsar",
-        "2015: First direct observation by LIGO",
-        "2017: Nobel Prize awarded for direct detection"
+        "1974: Indirect evidence from Hulse-Taylor binary pulsar",
+        "2015: First direct observation of gravitational waves by LIGO",
+        "2017: Nobel Prize awarded for detection of gravitational waves"
       ],
-      "mechanism": "Gravitational waves are ripples in spacetime caused by the acceleration of masses, propagating at the speed of light.",
+      "mechanism": "Gravitational waves are ripples in spacetime caused by the acceleration of massive objects, propagating at the speed of light.",
       "key_features": [
-        "Not affected by intervening matter",
-        "Can observe distant astronomical events",
-        "Provides insights into the early universe"
+        "Gravitational waves are not affected by intervening matter",
+        "They carry energy away from their sources",
+        "They provide insights into astronomical phenomena not observable by traditional means"
       ],
       "applications": [
         "Gravitational-wave astronomy",
@@ -439,7 +438,7 @@
         "Observing supernovae",
         "Investigating the early universe"
       ],
-      "significance": "Gravitational waves provide a new way to observe cosmic events and test general relativity, offering insights into the fundamental workings of the universe.",
+      "significance": "Gravitational waves provide a new way to observe the universe, allowing for the study of phenomena that are not detectable through electromagnetic radiation, and they offer a test for general relativity.",
       "institutions": [
         "LIGO",
         "Virgo",
@@ -447,8 +446,8 @@
         "European Space Agency"
       ],
       "awards": [
-        "Nobel Prize in Physics 1993",
-        "Nobel Prize in Physics 2017"
+        "Nobel Prize in Physics 1993 (Hulse and Taylor)",
+        "Nobel Prize in Physics 2017 (Weiss, Thorne, Barish)"
       ],
       "extracted_at": "2023-10-01"
     }
@@ -623,33 +622,40 @@
       "primary_name": "Higgs boson",
       "discoverers": [
         "Peter Higgs",
-        "François Englert"
+        "François Englert",
+        "Gerald Guralnik",
+        "Carl Hagen",
+        "Tom Kibble",
+        "Robert Brout"
       ],
       "discovery_years": [
         "2012"
       ],
       "discovery_timeline": [
-        "1964: Proposal of the Higgs mechanism by Peter Higgs and others",
-        "2012: Discovery of the Higgs boson at the Large Hadron Collider"
+        "1964: Higgs mechanism proposed by Peter Higgs and others.",
+        "2012: Discovery of the Higgs boson at the Large Hadron Collider (LHC).",
+        "2013: Confirmation of the Higgs boson existence."
       ],
-      "mechanism": "The Higgs boson is produced by the quantum excitation of the Higgs field, which gives mass to elementary particles through the Higgs mechanism.",
+      "mechanism": "The Higgs mechanism explains how particles acquire mass through their interaction with the Higgs field, which has a non-zero vacuum expectation value everywhere in the universe, breaking electroweak symmetry.",
       "key_features": [
         "Massive scalar boson",
-        "Couples to particles to give them mass",
-        "Has zero spin and no electric or color charge",
-        "Very unstable, decaying into other particles almost immediately"
+        "Zero spin",
+        "Even parity",
+        "No electric charge",
+        "No color charge",
+        "Couples to particles to give them mass"
       ],
       "applications": [
         "Particle physics",
-        "Understanding fundamental forces and particles",
-        "Testing the Standard Model"
+        "Understanding fundamental forces",
+        "Cosmology"
       ],
-      "significance": "The discovery of the Higgs boson confirmed the last unverified part of the Standard Model of particle physics, solving a central problem in the field.",
+      "significance": "The discovery of the Higgs boson confirmed the last unverified part of the Standard Model of particle physics, validating the mechanism by which particles acquire mass and providing insights into the fundamental structure of the universe.",
       "institutions": [
         "CERN"
       ],
       "awards": [
-        "Nobel Prize in Physics (2013)"
+        "Nobel Prize in Physics (2013) awarded to Peter Higgs and François Englert"
       ],
       "extracted_at": "2023-10-01"
     }
@@ -782,31 +788,36 @@
       "discovery_timeline": [
         "1920s: Development of modern quantum theory",
         "1980: Introduction of the quantum Turing machine by Paul Benioff",
-        "1984: Application of quantum theory to cryptography by Bennett and Brassard",
-        "1985: Deutsch's algorithm",
-        "1993: Bernstein–Vazirani algorithm",
-        "1994: Simon's algorithm and Shor's algorithm for breaking RSA",
-        "1996: Grover's algorithm for unstructured search",
-        "1998: Demonstration of a two-qubit quantum computer",
-        "2019: Google AI and NASA announce quantum supremacy"
+        "1984: Quantum key distribution proposed by Bennett and Brassard",
+        "1994: Shor's algorithm introduced for breaking RSA encryption",
+        "1996: Grover's algorithm established quantum speedup for unstructured search",
+        "2019: Google claims quantum supremacy with a 54-qubit machine",
+        "2020: USTC demonstrates quantum supremacy with a photonic quantum computer",
+        "2023: IBM reports quantum computer outperforming classical supercomputer for a physics problem"
       ],
-      "mechanism": "Quantum computers use qubits that can exist in superposition and entangled states, allowing them to perform calculations on multiple possibilities simultaneously, leveraging quantum phenomena for computation.",
+      "mechanism": "Quantum computers use qubits that can exist in superposition and entangled states, allowing them to perform computations on multiple possibilities simultaneously, leveraging quantum phenomena such as interference and entanglement.",
       "key_features": [
         "Exponential speedup for certain calculations compared to classical computers",
-        "Ability to break widely used cryptographic protocols",
-        "Efficient simulation of quantum systems without exponential overhead"
+        "Ability to solve problems like integer factorization and discrete logarithms efficiently",
+        "Quantum key distribution for secure communication"
       ],
       "applications": [
         "Cryptography",
-        "Quantum simulations",
-        "Complex problem solving",
-        "Optimization problems"
+        "Quantum simulation",
+        "Machine learning",
+        "Drug discovery",
+        "Optimization problems",
+        "Data analytics"
       ],
-      "significance": "Quantum computing represents a paradigm shift in computation, potentially solving problems that are intractable for classical computers and impacting fields such as cryptography and materials science.",
+      "significance": "Quantum computing represents a paradigm shift in computation, potentially solving problems that are intractable for classical computers, and has implications for fields such as cryptography, materials science, and complex system simulations.",
       "institutions": [
         "Google AI",
         "NASA",
-        "IBM"
+        "Harvard University",
+        "MIT",
+        "QuEra Computing",
+        "Caltech",
+        "Princeton University"
       ],
       "awards": null,
       "extracted_at": "2023-10-01"
@@ -886,37 +897,43 @@
       "primary_name": "Ancient DNA (aDNA)",
       "discoverers": [
         "Russ Higuchi",
-        "Svante Pääbo"
+        "Svante Pääbo",
+        "Eske Willerslev",
+        "Marcus Thomas Pius Gilbert",
+        "Orlando Ludovic"
       ],
       "discovery_years": [
         "1984"
       ],
       "discovery_timeline": [
         "1984: First study of aDNA by Russ Higuchi",
-        "1994: Report of mitochondrial cytochrome b sequences from dinosaur bones",
+        "1994: Report of mitochondrial DNA from dinosaur bones",
         "2007: Introduction of single primer extension amplification",
         "2009: Revolution in aDNA studies with cheaper techniques",
         "2010: Ability to sequence ancient human DNA",
-        "2022: Recovery of two-million-year-old genetic material from Greenland",
-        "2022: Nobel Prize awarded to Svante Pääbo"
+        "2021: Oldest nuclear DNA from Siberian mammoths",
+        "2022: Recovery of two-million-year-old genetic material from Greenland"
       ],
-      "mechanism": "Ancient DNA is isolated from ancient sources and is subject to degradation processes, making it more degraded than modern DNA. Techniques like PCR and NGS are used to amplify and sequence aDNA.",
+      "mechanism": "Ancient DNA is isolated from ancient sources and is subject to degradation processes, making it more challenging to analyze compared to modern DNA. Techniques like PCR and NGS are used to amplify and sequence aDNA.",
       "key_features": [
         "Ability to recover DNA from ancient specimens",
-        "Use of advanced sequencing technologies",
+        "Advancements in sequencing technologies",
         "Improved standards for evaluating DNA results"
       ],
       "applications": [
         "Paleoarchaeology",
+        "Anthropology",
         "Evolutionary biology",
-        "Genetic studies of extinct species"
+        "Genetic studies of extinct species",
+        "Pathogen studies"
       ],
-      "significance": "Ancient DNA research has revolutionized our understanding of evolutionary history and human ancestry, providing insights into extinct species and ancient populations.",
+      "significance": "Ancient DNA research has revolutionized our understanding of human evolution, migration patterns, and the genetic history of extinct species.",
       "institutions": [
-        "University of California, Berkeley"
+        "University of California, Berkeley",
+        "Centre for Geogenetics, Natural History Museum of Denmark, University of Copenhagen"
       ],
       "awards": [
-        "2022 Nobel Prize in Physiology or Medicine"
+        "2022 Nobel Prize in Physiology or Medicine awarded to Svante Pääbo"
       ],
       "extracted_at": "2023-10-01"
     }
@@ -1086,36 +1103,46 @@
         "Gerard Kuiper",
         "Robert Leighton",
         "Bruce Murray",
-        "Walter Adams",
-        "Theodore Dunham"
+        "NASA",
+        "ESA",
+        "Curiosity Rover Team",
+        "Phoenix Lander Team",
+        "InSight Lander Team",
+        "Zhurong Rover Team"
       ],
       "discovery_years": [
         "1963"
       ],
       "discovery_timeline": [
-        "1784: William Herschel suggests Mars has water based on observations.",
-        "1963: Water vapor on Mars is first unequivocally detected by spectroscopy.",
-        "2001: Mars Odyssey launched to study Martian water.",
-        "2008: Ice detected in soil samples by Phoenix lander.",
-        "2013: Further ice detection by Curiosity rover.",
-        "2018: Radar findings suggest liquid water in subglacial lakes.",
-        "2024: Seismometer data suggests liquid water deep under the surface."
+        "1784: William Herschel suggests water presence on Mars based on polar caps and clouds.",
+        "1963: First unequivocal detection of water vapor on Mars by spectroscopy.",
+        "2001: Mars Odyssey begins mapping water ice on Mars.",
+        "2008: Phoenix lander confirms presence of water ice in northern Mars.",
+        "2012: Curiosity rover finds evidence of ancient streambed in Gale Crater.",
+        "2018: Radar findings suggest presence of liquid water in subglacial lakes.",
+        "2024: InSight lander suggests presence of liquid water deep underground."
       ],
-      "mechanism": "Detection of water on Mars is achieved through spectroscopy, remote sensing techniques, and surface investigations by landers and rovers.",
+      "mechanism": "Water exists in various forms on Mars, including ice, vapor, and potentially liquid, influenced by atmospheric pressure and temperature conditions.",
       "key_features": [
-        "Presence of large quantities of ice on and under the surface of Mars.",
-        "Detection of liquid water in subglacial lakes and beneath the surface.",
-        "Evidence of past water flow and potential for microbial life."
+        "Presence of large quantities of ice on and beneath the surface of Mars.",
+        "Detection of water vapor and ice through spectroscopy and radar.",
+        "Evidence of ancient riverbeds and lakes indicating past liquid water.",
+        "Potential for subsurface liquid water in lakes beneath polar ice caps."
       ],
       "applications": [
-        "Astrobiology",
-        "Planetary exploration",
-        "Resource utilization for future human missions to Mars."
+        "Astrobiology and search for microbial life on Mars.",
+        "Understanding Mars' climate history and geological processes.",
+        "Future human exploration and resource utilization."
       ],
-      "significance": "Understanding the extent and situation of water on Mars is crucial for assessing the planet's potential for harboring life and for future human exploration.",
+      "significance": "Understanding the presence and history of water on Mars is crucial for assessing the planet's potential to support life and for future human exploration.",
       "institutions": [
         "NASA",
-        "ESA"
+        "European Space Agency (ESA)",
+        "Mount Wilson Observatory",
+        "Curiosity Rover Team",
+        "Phoenix Lander Team",
+        "InSight Lander Team",
+        "Zhurong Rover Team"
       ],
       "awards": null,
       "extracted_at": "2023-10-01"
@@ -1243,38 +1270,38 @@
       "primary_name": "Penicillin",
       "discoverers": [
         "Alexander Fleming",
-        "Cecil George Paine",
         "Howard Florey",
-        "Ernst Boris Chain"
+        "Ernst Boris Chain",
+        "Cecil George Paine"
       ],
       "discovery_years": [
         "1928"
       ],
       "discovery_timeline": [
-        "1928: Discovery of penicillin by Alexander Fleming",
-        "1930: First use of penicillin to treat eye infection by Cecil George Paine",
-        "1940: Purification of penicillin F by Howard Florey and Ernst Boris Chain",
-        "1942: First use of purified penicillin to treat streptococcal meningitis by Fleming",
-        "1945: Nobel Prize awarded to Chain, Fleming, and Florey"
+        "1928: Alexander Fleming discovers penicillin as a crude extract from Penicillium rubens.",
+        "1930: Cecil George Paine successfully uses penicillin to treat eye infection.",
+        "1940: Purified penicillin F is isolated by Howard Florey and Ernst Boris Chain.",
+        "1942: Fleming uses purified penicillin to treat streptococcal meningitis.",
+        "1945: Fleming, Florey, and Chain receive the Nobel Prize in Physiology or Medicine."
       ],
-      "mechanism": "Penicillin works by inhibiting bacterial cell wall synthesis, specifically targeting the transpeptidation enzyme involved in cross-linking peptidoglycan layers in bacterial cell walls.",
+      "mechanism": "Penicillin kills bacteria by inhibiting the synthesis of peptidoglycans, essential components of the bacterial cell wall, leading to cell lysis and death.",
       "key_features": [
         "Effective against a wide range of bacterial infections",
-        "First antibiotic discovered",
-        "Natural product derived from Penicillium moulds",
-        "Various semi-synthetic derivatives available"
+        "First widely used antibiotic",
+        "Can be modified to create semi-synthetic variants"
       ],
       "applications": [
         "Treatment of bacterial infections",
-        "Used in clinical settings for various infections caused by staphylococci and streptococci",
-        "Used in the treatment of neonatal conjunctivitis"
+        "Surgical prophylaxis",
+        "Treatment of specific infections like syphilis and meningitis"
       ],
-      "significance": "Penicillin was one of the first antibiotics used to effectively treat bacterial infections, revolutionizing medicine and leading to the development of other antibiotics.",
+      "significance": "Penicillin was the first true antibiotic, revolutionizing the treatment of bacterial infections and significantly reducing mortality rates during and after World War II.",
       "institutions": [
-        "University of Oxford"
+        "University of Oxford",
+        "Imperial College London"
       ],
       "awards": [
-        "1945 Nobel Prize in Physiology or Medicine"
+        "Nobel Prize in Physiology or Medicine (1945)"
       ],
       "extracted_at": "2023-10-01"
     }
